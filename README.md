@@ -1,13 +1,13 @@
-# RoadSurvival
+п»ї# RoadSurvival
 Our stunning game
 #By MD
 ![alt tag](Design/Logo v5.png)
 MD - Mobile Development Company
-в старом- delta force
-Разработчики:
-1) Антон
-2) Михаил
+РІ СЃС‚Р°СЂРѕРј- delta force
+Р Р°Р·СЂР°Р±РѕС‚С‡РёРєРё:
+1) РђРЅС‚РѕРЅ
+2) РњРёС…Р°РёР»
 
-сделано в научном городке
+СЃРґРµР»Р°РЅРѕ РІ РЅР°СѓС‡РЅРѕРј РіРѕСЂРѕРґРєРµ
 
 
